@@ -8,3 +8,5 @@
 
 Back-end e banco de dados: Spring/SpringBoot/Swagger2(RESTful API).
 
+#DOCUMENTAÇÃO:
+URL para acessar a documentação da API: http://localhost:8080/swagger-ui.html
