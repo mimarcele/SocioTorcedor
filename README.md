@@ -6,7 +6,7 @@
 #FERRAMENTAS:
 -Para a elaboração da API, utilizei as seguintes ferramentas: Dbeaver, MySql, Intellij e Postman
 
-Back-end e banco de dados: Spring/SpringBoot/Swagger2(RESTful API).
+Back-end e banco de dados: Spring/SpringBoot/Swagger2
 
 #DOCUMENTAÇÃO:
 URL para acessar a documentação da API: http://localhost:8080/swagger-ui.html
